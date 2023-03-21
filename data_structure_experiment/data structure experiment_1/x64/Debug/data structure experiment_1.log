@@ -1,0 +1,10 @@
+﻿  2023_3_19_data_1.c
+D:\data_structure_experiment\data structure experiment_1\2023_3_19_data_1.c(201,22): warning C4047: “函数”:“char *”与“char (*)[26]”的间接级别不同
+D:\data_structure_experiment\data structure experiment_1\2023_3_19_data_1.c(201,12): warning C4024: “initarray”: 形参和实参 1 的类型不同
+D:\data_structure_experiment\data structure experiment_1\2023_3_19_data_1.c(202,22): warning C4047: “函数”:“char *”与“char (*)[26]”的间接级别不同
+D:\data_structure_experiment\data structure experiment_1\2023_3_19_data_1.c(202,12): warning C4024: “initarray”: 形参和实参 1 的类型不同
+D:\data_structure_experiment\data structure experiment_1\2023_3_19_data_1.c(260,24): warning C4047: “函数”:“char *”与“char (*)[26]”的间接级别不同
+D:\data_structure_experiment\data structure experiment_1\2023_3_19_data_1.c(260,14): warning C4024: “addtoarray”: 形参和实参 1 的类型不同
+D:\data_structure_experiment\data structure experiment_1\2023_3_19_data_1.c(272,24): warning C4047: “函数”:“char *”与“char (*)[26]”的间接级别不同
+D:\data_structure_experiment\data structure experiment_1\2023_3_19_data_1.c(272,14): warning C4024: “addtoarray”: 形参和实参 1 的类型不同
+  data structure experiment_1.vcxproj -> D:\data_structure_experiment\data structure experiment_1\x64\Debug\data structure experiment_1.exe
